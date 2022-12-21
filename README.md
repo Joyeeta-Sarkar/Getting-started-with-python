@@ -32,4 +32,5 @@ Let’s have a look at some of the commonly used libraries:
 8.PyTorch: PyTorch is the largest machine learning library that optimizes tensor computations. It has rich APIs to perform tensor computations with strong GPU acceleration. It also helps to solve application issues related to neural networks.
 
 There are many more libraries in Python. We can use a suitable library for our purposes. Hence, Python libraries play a very crucial role and are very helpful to the developers.
-![image](https://user-images.githubusercontent.com/121050197/208962329-19b7816f-2068-4348-b3df-1b4dda3cb26d.png)
+
+<img src="https://user-images.githubusercontent.com/121050197/208962329-19b7816f-2068-4348-b3df-1b4dda3cb26d.png" width="600" height="300">
