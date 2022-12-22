@@ -35,5 +35,32 @@ There are many more libraries in Python. We can use a suitable library for our p
 
 <img src="https://user-images.githubusercontent.com/121050197/208962329-19b7816f-2068-4348-b3df-1b4dda3cb26d.png" width="600" height="300">
 
+## Python Operators
+
+Python divides the operators in the following groups:
+
+1. Arithmetic operators
+2. Assignment operators
+3. Comparison operators
+4. Logical operators
+5. Identity operators
+6. Membership operators
+7. Bitwise operators
+
+## Python Datatypes
+
+In programming, data type is an important concept.
+Variables can store data of different types, and different types can do different things.
+Python has the following data types built-in by default, in these categories:
+
+1. Text Type:	str
+2. Numeric Types:	int, float, complex
+3. Sequence Types:	list, tuple, range
+4. Mapping Type:	dict
+5. Set Types:	set, frozenset
+6. Boolean Type:	bool
+7. Binary Types:	bytes, bytearray, memoryview
+8. None Type:	NoneType
+
 #### With python we can do so many cool stuffs. It makes the program look super easy to understand.              I have shown very few programs here to make you understand a little better.
 
