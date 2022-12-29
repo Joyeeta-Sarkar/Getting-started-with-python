@@ -62,5 +62,5 @@ Python has the following data types built-in by default, in these categories:
 7. Binary Types:	bytes, bytearray, memoryview
 8. None Type:	NoneType
 
-#### With python we can do so many cool stuffs. It makes the program look super easy to understand.              I have shown very few programs here to make you understand a little better.
+#### With python we can do so many cool stuffs. It makes the program look super easy to understand.              I have shown very few programs here to make you understand a little better.....
 
