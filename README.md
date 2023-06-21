@@ -6,6 +6,7 @@ Mini projects on python to learn and understand better.
 ## Python                                               
 
 Python is an interpreted, interactive, object-oriented programming language. It incorporates modules, exceptions, dynamic typing, very high level dynamic data types, and classes. Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.
+
 ![image](https://user-images.githubusercontent.com/121050197/208958345-e3d3d9ef-9239-40f8-9bca-07a700c00da9.png)
 
 ### Now that we know what python is, let's move on to the libraries in python.
