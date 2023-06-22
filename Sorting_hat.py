@@ -1,9 +1,10 @@
-#The Sorting Hat is a magical talking hat at Hogwarts School of Witchcraft and Wizardry. 
+#The Sorting Hat is a magical talking hat at Hogwarts School of Witchcraft.
 #The hat decides which of the four "Houses" each first-year student goes to:
 #🦁 Gryffindor
 #🦅 Ravenclaw
 #🦡 Hufflepuff
 #🐍 Slytherin
+#This is a simple program coded using control flow(if, elif and else), relational operator and logical operator
 
 
 Gryffindor = 0
