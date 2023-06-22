@@ -1,4 +1,4 @@
-# Write code below 💖
+#simple control flow program using if, elif and else with random module.
 
 import random
 question = input()
